@@ -1,0 +1,14 @@
+some text here some text here some text here some text here some text here some text here some text here some text here some text here some text here some text here some text here some text here 
+blabla motherfucker, totally a long line blabla motherfucker, totally a long line blabla motherfucker, totally a long line blabla motherfucker, totally a long line blabla motherfucker, totally a long line 
+1 not really though? 1 not really though? 1 not really though? 1 not really though? 1 not really though? 1 not really though? 1 not really though? 1 not really though? 1 not really though? 1 not really though? 
+yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes it is yes yes it is yes i
+let's start adding some more numbers here 
+2
+3 and some text maybe?
+some text and another 3
+4and no whitespace after
+bla4
+enough is enough
+Total = 10
+i = 4
+bufsize = 510
